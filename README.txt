@@ -7,7 +7,7 @@ Download ook even Windows ADK zodat wij de benodigde .\dism & .\oscdimg commando
 
 Dingen die je moet doen voordat je het script kan starten: 
 
--Zorg dat het mapje slipstream op je bureaublad staat.
+-Maak een map aan je op je bureaublad genaamd 'slipstream' en zet hier de 4 bestanden in.
 
 -Hernoem je Windows ISO naar Windows_ISO.iso
 
