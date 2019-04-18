@@ -19,7 +19,7 @@ Dingen die je moet doen voordat je het script kan starten:
  De juiste schijfletter is E:\ - Helaas had ik geen commando gevonden waarmee je een schijfletter kon aangeven.
 
 
-LET OP: Is de letter E:\ niet beschikbaar op je PC? Dan zul je de schijfletter moeten aanpassen in het script naar een letter die wel beschikbaar is
+LET OP: Is de letter E:\ niet beschikbaar op je PC? Dan zul je de schijfletter moeten aanpassen in het script naar het eerst volgende letter dat hij zal gebruiken.
 
 
 -Als je dit allemaal gedaan hebt start je run_slipstream.bat en dan wordt alles vanzelf gedaan.
