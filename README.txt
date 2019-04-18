@@ -9,7 +9,7 @@ Dingen die je moet doen voordat je het script kan starten:
 
 -Maak een map aan je op je bureaublad genaamd 'slipstream' en zet hier de 4 bestanden in.
 
--Hernoem je Windows ISO naar Windows_ISO.iso
+-Hernoem je Windows ISO naar Windows_ISO.iso en zit dit op je bureaublad.
 
 -Plaats beide updates op je Bureablad.
 
