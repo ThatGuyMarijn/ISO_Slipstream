@@ -1,6 +1,6 @@
 Microsoft Catalogus: https://www.catalog.update.microsoft.com/Home.aspx
 Download hier de Servicing Stack & Culumatieve update voor je gewenste Windows versie.
-LET OP: Als je de updates download zie je 3 soorten, 1709, 1803 en een zonder nummer, pak de download zonder een nummer want 1709,1803 zijn alleen core installaties dus geen GUI.
+LET OP: Als je de updates download voor Windows Server zie je 3 soorten, 1709, 1803 en een zonder nummer, pak de download zonder een nummer want 1709,1803 zijn alleen core installaties dus geen GUI.
 
 Windows ADK: https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
 Download ook even Windows ADK zodat wij de benodigde .\dism & .\oscdimg commando's krijgen
