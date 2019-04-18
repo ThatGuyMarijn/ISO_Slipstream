@@ -15,7 +15,7 @@ Dingen die je moet doen voordat je het script kan starten:
 
 -Hernoem $update_name_ssu & $update_name_cumu in het script naar de juiste naam (lijn 10-11).
 
--Als laatste; soms als je de script runned kan hij de ISO tijdens het mounten de verkeerde schijfletter geven dus bijvoorbeeld D:\ herstart het script, hij heeft hem automatisch geunmount als hij verkeerd was.
+-Als laatste; soms als je het script runned kan hij de ISO tijdens het mounten de verkeerde schijfletter geven dus bijvoorbeeld D:\ herstart het script, hij heeft hem automatisch geunmount als hij verkeerd was.
  De juiste schijfletter is E:\ - Helaas had ik geen commando gevonden waarmee je een schijfletter kon aangeven.
 
 
