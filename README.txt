@@ -29,5 +29,5 @@ De ISO wordt opgeslagen in Desktop\ISO\Slipstream
 EXTRA: in het mapje Slipstream wat je gedownload hebt krijg je een progress.txt hier kun je zien hoe ver het script is.
 
 Marijn Deijnen
-2-4-2019
+18-4-2019
 
