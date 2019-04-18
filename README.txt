@@ -26,7 +26,7 @@ LET OP: Is de letter E:\ niet beschikbaar op je PC? Dan zul je de schijfletter m
 De ISO wordt opgeslagen in Desktop\ISO\Slipstream
 
 
-EXTRA: in het mapje Slipstream wat je gedownload hebt krijg je een progress.txt hier kun je zien hoe ver de script is.
+EXTRA: in het mapje Slipstream wat je gedownload hebt krijg je een progress.txt hier kun je zien hoe ver het script is.
 
 Marijn Deijnen
 2-4-2019
